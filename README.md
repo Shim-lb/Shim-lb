@@ -1,7 +1,6 @@
-## 소속
-한림대학교 소프트웨어융합대학
+Collegian
 <hr>
 
 ## Available Language
-JAVA, Python, JavaScript
+JAVA, Python
 
